@@ -1,0 +1,32 @@
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:191]  ====[report begin]====
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:192]  ip_address: 219.143.157.202
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:193]  sys_time: 20180614222349
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:194]  report_type: 1
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:195]  visit_time: 20180614222248
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:196]  visitor_type: 1
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:197]  user_id: 1038539614
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:198]  account_name: null
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:199]  phone_number: 159****8188
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:200]  os: Win7
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:201]  browser: 
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:202]  mac_address: 00-07-E9-0A-1D-A7
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:203]  app_version: 1.1.0.614
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:204]  visit_url: 
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:205]  detail: 
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:206]  ====[report end]====
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:191]  ====[report begin]====
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:192]  ip_address: 123.185.187.252
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:193]  sys_time: 20180614222349
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:194]  report_type: 1
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:195]  visit_time: 20180614222347
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:196]  visitor_type: 0
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:197]  user_id:
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:198]  account_name:
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:199]  phone_number:
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:200]  os: Win8
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:201]  browser:
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:202]  mac_address: C8-D3-FF-EB-45-26
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:203]  app_version: 1.1.0.614
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:204]  visit_url:
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:205]  detail:
+[INFO] 2018-06-14 22:23:49 [com.sy.api.data.action.StatisticsAction.report:206]  ====[report end]====
