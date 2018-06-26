@@ -97,5 +97,5 @@ if __name__ == '__main__':
     #analyse("d:/sample.log","d:/sample.csv")
     #analyse("D:/temp/176_20180614/MiguApi__2018-06-14.log");
     #analyse("D:/temp/logs/MiguApi__2018-06-14.log","d:/176.csv");
-    analyse("D:/temp/logs/176_20180618.log","D:/temp/176_20180618.csv");
-    analyse("D:/temp/logs/177_20180618.log","D:/temp/177_20180618.csv");
+    analyse("D:/temp/logs/176_20180624.log","D:/temp/176_20180624.csv");
+    analyse("D:/temp/logs/177_20180624.log","D:/temp/177_20180624.csv");
