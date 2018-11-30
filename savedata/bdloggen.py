@@ -13,7 +13,7 @@ log('start consumer')
 # for msg in consumer:
 #         recv = "%s:%d:%d: key=%s value=%s" %(msg.topic,msg.partition,msg.offset,msg.key,msg.value)
 #         log(recv)
-consumer = KafkaConsumer('pc_visit_log',group_id='test-consumer-group',bootstrap_servers=['192.168.187.132:9092'])
+consumer = KafkaConsumer('pc_play_log',bootstrap_servers=['10.125.145.131:9092'])
 for msg in consumer:
         recv = "%s:%d:%d: key=%s value=%s" %(msg.topic,msg.partition,msg.offset,msg.key,msg.value)
         log(recv)
